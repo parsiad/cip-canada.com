@@ -1,0 +1,13 @@
+.flexslider, .navigation, #map, #footer, #top {
+	display: none;
+}
+a[href]:after, a:after {
+	content: "";
+}
+#logo {
+	margin: 0 auto;
+}
+#content .container h2 {
+	margin: 0.5em 0 0 0;
+}
+
