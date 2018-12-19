@@ -3,7 +3,7 @@
 .navigation a:hover{background:#e5e5e5}
 .navigation a{color:#4b4c4d}
 #header,#scroll:hover,#print:hover{background-color:#cf1b03}
-body{color:#777;font-size:2em}
+body{color:#777;font-size:2.5em;line-height:140%}
 strong{color:#333}
 #top,#top a{color:#d7d7d7}
 .slides p,#top a:hover,#header,#scroll,#print,.slides p a,.slides p a:hover{color:white}
@@ -11,7 +11,6 @@ h4,h5,em{color:#cf1b03}
 h1,h3{color:#333}
 
 h1,h2,h3,h4,h5,h6,body{font-family:'Open Sans',sans-serif}
-body{line-height:140%}
 a:hover,a{text-decoration:none}
 
 #top{padding:12px 0;font-size:0.8em;overflow:hidden}
