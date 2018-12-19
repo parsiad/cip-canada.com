@@ -3,7 +3,7 @@
 .navigation a:hover{background:#e5e5e5}
 .navigation a{color:#4b4c4d}
 #header,#scroll:hover,#print:hover{background-color:#cf1b03}
-body{color:#777}
+body{color:#777;font-size:2em}
 strong{color:#333}
 #top,#top a{color:#d7d7d7}
 .slides p,#top a:hover,#header,#scroll,#print,.slides p a,.slides p a:hover{color:white}
